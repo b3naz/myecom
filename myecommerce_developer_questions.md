@@ -10,6 +10,7 @@ Some notes before you started.
 6. We do a lot of communication in our businesses, the majority of which is text based, in English, so please ensure you use good spelling and grammar as we require good language skills from everyone on our team.
 --->
 
+# Name Surname <!--- Please change this line to your name and surname --->
 
 ## Basics
 <!---
