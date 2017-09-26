@@ -18,17 +18,14 @@ Phone number format: +27 XX XXX XXXX
 Addresses: Please keep the address in one line. Please include, street number, suburb, town/city, province and postal code.
 --->
 
-
 * **Name:**
 * **Surname:**
 * **ID Number:**
 * **Income Tax Number:**
 * **Email:**
 * **Mobile Number:**
-
 * **Physical Address:**
 * **Postal Address:**
-
 * **Introduce yourself in a tweet (140 characters):**
 
 ## Education:
