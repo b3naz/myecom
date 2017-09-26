@@ -87,10 +87,12 @@ Experience level: Please answer with Junior, Intermediate or Senior. Junior mean
 * **Language Name:**
 * **Years of experience:**
 * **Experience level:**
+---
 
 * **Language Name:**
 * **Years of experience:**
 * **Experience level:**
+---
 
 ### Frameworks or libraries
 <!---
@@ -100,10 +102,12 @@ In this section, we'd like to get an idea of what type of frameworks you've work
 * **Framework Name:**
 * **Years of experience:**
 * **Experience level:**
+---
 
 * **Framework Name:**
 * **Years of experience:**
 * **Experience level:**
+---
 
 ### Databases
 <!---
@@ -113,6 +117,7 @@ What types of databases have you worked with? We mostly use MySQL and MariaDB.
 * **Database Name:**
 * **Years of experience:**
 * **Experience level:**
+---
 
 ## Projects
 <!---
@@ -124,6 +129,7 @@ Project Contribution: Please tell us what you did on the project. How involved w
 * **Project Description:**
 * **Project Contribution:**
 * **Link to project if it is still online:**
+---
 
 ## Getting to know you
 <!---
@@ -185,6 +191,7 @@ Reference relationship: Please tell us how this person relates to you, was this 
 * **Reference relationship:**
 * **Reference mobile number:**
 * **Reference email address:**
+---
 
 <!---
 
