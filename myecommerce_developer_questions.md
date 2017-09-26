@@ -1,4 +1,4 @@
-# MyEcommerce Developer Questions
+# MyEcommerce Developer Information
 <!---
 Some notes before you started.
 
@@ -8,10 +8,12 @@ Some notes before you started.
 4. Completing this sheet is both to ensure that we collect information in a consistent format and to ensure that you're able to follow basic instructions.
 5. Please include one space after the colon when filling in a value. For example, for the field ‘name’ you should answer ‘name: FirstName’ and not ‘name:Firstname’.
 6. We do a lot of communication in our businesses, the majority of which is text based, in English, so please ensure you use good spelling and grammar as we require good language skills from everyone on our team.
+7. Please preview the output of the document after you've filled it in and saved to make sure it looks right. Only the questions should be in bold or heading styles. None of your answers should include any formatting/styling.
+8. There are additional instructions and notes throughout this document to help you understand what information we are looking for and the expected format.
 --->
 
 # Name Surname
-<!--- Please change line 13 to your name and surname --->
+<!--- Please change the line above to your name and surname --->
 
 ## Basics
 <!---
@@ -55,6 +57,7 @@ Location: Please state which town/city you worked in.
 * **Location:**
 * **Description of activities:**
 * **Reason for leaving:**
+---
 
 ## Links:
 <!---
@@ -121,9 +124,14 @@ What types of databases have you worked with? We mostly use MySQL and MariaDB.
 * **Experience level:**
 ---
 
+* **Database Name:**
+* **Years of experience:**
+* **Experience level:**
+---
+
 ## Projects
 <!---
-Repeat this structure for each project you’ve worked on leaving one open line after each project (group of answers related to a project)
+Repeat this structure for each project you’ve worked on, leaving one open line after each project. (Group of answers related to a project. You'll note --- denotes the end of a group of answers.)
 Project Contribution: Please tell us what you did on the project. How involved were you, did you only contribute code, plan the database, configure the server, work on the project alone or as part of a team etc?
  --->
 
@@ -135,7 +143,7 @@ Project Contribution: Please tell us what you did on the project. How involved w
 
 ## Getting to know you
 <!---
-These are some more general questions just to get to know you. Please leave one space after the question mark and then add your answer.
+These are some general questions to get to know you. Please leave one space after the question mark and then add your answer; check the output, after saving, to ensure that you've done this correctly.
 --->
 
 ### Personal
@@ -148,7 +156,7 @@ These are some more general questions just to get to know you. Please leave one 
 
 ### Office Environment
 <!---
-Small office, big office, lots of talking, not much talking, dark or light, hot or cold, windows open or closed, many people, few people etc.
+Small office, big office, lots of talking, not much talking, dark or light, hot or cold, windows open or closed, many people or few people etc.
 --->
 
 * **What sort of office environment do you want to work in, do you have any preferences?**
