@@ -186,7 +186,7 @@ These questions might require a bit more of a narrative/essay style answer, so p
 
 **How comfortable do you feel with databases and SQL?**
 
-**have you done much work with APIs and/or system integration?**
+**Have you done much work with APIs and/or system integration?**
 
 **Have you done any mobile app development for iOS or Android?**
 
