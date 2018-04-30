@@ -209,9 +209,9 @@ Reference relationship: Please tell us how this person relates to you, was this 
 
 1. We don't have a uniform but do sometimes engage with clients in person so you just need to be neat and comfortable.
 2. We have a small office and some staff that work remotely. All of our comms is via Google Hangouts, the project issue tracker or Skype for calls with clients.
-3. Our office has a kitchenette. We don't currently have air conditioning.
+3. Our office has a kitchenette and air conditioning.
 4. We have an ongoing self development policy which requires a minimum of 20 hours of self study per month.
-5. We don't use a paper attendance register, we use electronic time sheets. Time sheets need to be accurate and updated before leaving the office. Time sheets are reviewed by management everyone morning at 11:00. Time sheets are submitted to clients so accuracy and good language is important.
+5. We don't use a paper attendance register, we use electronic time sheets. Time sheets need to be accurate and updated before leaving the office. Time sheets are reviewed by management every morning at 11:00. Time sheets are submitted to clients so accuracy and good language is important.
 6. We don't have regular events like team building or year end functions but sometimes go out for lunch as a team.
 7. We work with a lot of private information so everything that we work on should be considered private and confidential. If you're not sure what you may talk about outside of work, ask us.
 8. Our developers work on Linux desktops, the current flavour is Mint.
