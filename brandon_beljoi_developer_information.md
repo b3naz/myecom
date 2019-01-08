@@ -103,6 +103,7 @@ Location: Please state which town/city you worked in.
 
 * **Reason for leaving:** Still Freelancing.
 ---
+
 ## Links:
 <!---
 Our business depends on digital tools for everything from day to do productivity through to brand development and sales.
@@ -161,7 +162,7 @@ Experience level: Please answer with Junior, Intermediate or Senior. Junior mean
 
 * **Language Name:** PHP
 * **Years of experience:** 3
-* **Experience level:** Intermediate
+* **Experience level:** Junior
 ---
 
 ### Frameworks or libraries
@@ -169,14 +170,24 @@ Experience level: Please answer with Junior, Intermediate or Senior. Junior mean
 In this section, we'd like to get an idea of what type of frameworks you've worked with. Some frameworks we use regularly, include Wordpress, Codeigniter, Bootstrap, Font Awesome, FPDF and JQuery.
 --->
 
-* **Framework Name:**
-* **Years of experience:**
-* **Experience level:**
+* **Framework Name:** Drupal
+* **Years of experience:** 5
+* **Experience level:** Senior
 ---
 
-* **Framework Name:**
-* **Years of experience:**
-* **Experience level:**
+* **Framework Name:** Bootstrap
+* **Years of experience:** 3
+* **Experience level:** Senior
+---
+
+* **Framework Name:** Font Awesome
+* **Years of experience:** 3
+* **Experience level:** Senior
+---
+
+* **Framework Name:** JQuery
+* **Years of experience:** 3
+* **Experience level:** Intermediate
 ---
 
 ### Databases
@@ -184,14 +195,9 @@ In this section, we'd like to get an idea of what type of frameworks you've work
 What types of databases have you worked with? We mostly use MySQL and MariaDB.
 --->
 
-* **Database Name:**
-* **Years of experience:**
-* **Experience level:**
----
-
-* **Database Name:**
-* **Years of experience:**
-* **Experience level:**
+* **Database Name:** MySQL
+* **Years of experience:** 7
+* **Experience level:** Intermediate
 ---
 
 ## Projects
