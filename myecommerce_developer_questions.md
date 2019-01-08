@@ -22,14 +22,14 @@ Phone number format: +27 XX XXX XXXX
 Addresses: Please keep the address in one line. Please include, street number, suburb, town/city, province and postal code.
 --->
 
-* **Name: Brandon**dffdfd
-* **Surname: Beljoi**
-* **ID Number: 940209 5300 082**
+* **Name:** Brandon
+* **Surname:** Beljoi
+* **ID Number:** 940209 5300 082
 * **Income Tax Number:**
-* **Email: brandon.beljoi@gmail.com**
-* **Mobile Number: +27 83 682 0990**
-* **Physical Address: 34 Shepherd Court, Lavender Hill, Retreat, Cape Town, Western Cape, 7945**
-* **Postal Address: 34 Shepherd Court, Lavender Hill, Retreat, Cape Town, Western Cape, 7945**
+* **Email:** brandon.beljoi@gmail.com
+* **Mobile Number:** +27 83 682 0990
+* **Physical Address:** 34 Shepherd Court, Lavender Hill, Retreat, Cape Town, Western Cape, 7945
+* **Postal Address:** 34 Shepherd Court, Lavender Hill, Retreat, Cape Town, Western Cape, 7945
 * **Introduce yourself in a tweet (140 characters):**
 
 ## Education:
@@ -39,9 +39,9 @@ Qualification: Please state the full qualification name.
 Completion date: If you did not complete the qualification, state how far you got and reason for non-completion, for example, 'completed 2nd year but ran out of funds’ or 'in progress' if you're still busy studying towards a particular qualification.
 --->
 
-* **Institution name: False Bay College**
-* **Qualification: Information Technology and Computer Science**
-* **Completed date: December 2012**
+* **Institution name:** False Bay College
+* **Qualification:** Information Technology and Computer Science
+* **Completed date:** December 2012
 
 ## Work Experience
 <!---
