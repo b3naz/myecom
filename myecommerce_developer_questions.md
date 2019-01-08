@@ -50,13 +50,17 @@ Description of activities: Tell us what type of activities you did on a daily ba
 Location: Please state which town/city you worked in.
 --->
 
-* **Business/Organisation Name:**
-* **Job Title:**
-* **Start Date:**
-* **End Date:**
-* **Location:**
-* **Description of activities:**
-* **Reason for leaving:**
+* **Business/Organisation Name:** South African History Online
+* **Job Title:** Drupal Developer
+* **Start Date:** August 2014
+* **End Date:** July 2016
+* **Location:** Woodstock, Cape Town
+* **Description of activities:** Content Migration from Drupal 6 to Drupal 7, 
+                                 created mysql snippets to migrate data from Drupal 6 to   Drupal 7 table schema, 
+                                 created a custom Drupal 7 theme from scratch according to a design shown, 
+                                 created different types of views and added different contextual filters to views, 
+                                 as well as adding forms for filters in views.
+* **Reason for leaving:** Wanted to expose myself to new skills and different working environments.
 ---
 
 ## Links:
