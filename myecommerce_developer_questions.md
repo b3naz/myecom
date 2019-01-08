@@ -109,10 +109,10 @@ Our business depends on digital tools for everything from day to do productivity
 Please provide us links to all of your profiles on the sites below.
 --->
 
-* **LinkedIn:**
+* **LinkedIn:** https://www.linkedin.com/in/brandonbeljoi/
 * **Personal Website:**
 * **Blog:**
-* **Facebook:**
+* **Facebook:** https://www.facebook.com/bbeljoi.co.za/
 * **Twitter:**
 * **GitHub:**
 * **BitBucket:**
@@ -133,14 +133,35 @@ Experience level: Please answer with Junior, Intermediate or Senior. Junior mean
 
 ### Languages
 
-* **Language Name:**
-* **Years of experience:**
-* **Experience level:**
+* **Language Name:** HTML
+* **Years of experience:** 7
+* **Experience level:** Senior
 ---
 
-* **Language Name:**
-* **Years of experience:**
-* **Experience level:**
+* **Language Name:** CSS
+* **Years of experience:** 7
+* **Experience level:** Senior
+---
+
+* **Language Name:** HTML5
+* **Years of experience:** 4
+* **Experience level:** Senior
+---
+
+* **Language Name:** CSS3
+* **Years of experience:** 5
+* **Experience level:** Senior
+---
+
+* **Language Name:** Javascript
+* **Years of experience:** 6
+* **Experience level:** Intermediate
+---
+
+
+* **Language Name:** PHP
+* **Years of experience:** 3
+* **Experience level:** Intermediate
 ---
 
 ### Frameworks or libraries
@@ -192,11 +213,11 @@ These are some general questions to get to know you. Please leave one space afte
 
 ### Personal
 
-* **Do you prefer tea or coffee?**
-* **What is your favourite food?**
-* **What is your favourite thing to do when you have free time?**
-* **What type of music do you enjoy listening to?**
-* **If you could design your perfect day, what would it look like? What time would you wake up, what would you do etc?**
+* **Do you prefer tea or coffee?** Coffee
+* **What is your favourite food?** Pasta
+* **What is your favourite thing to do when you have free time?** 
+* **What type of music do you enjoy listening to?** Calming instrumental
+* **If you could design your perfect day, what would it look like? What time would you wake up, what would you do etc?** Camping, would wake up at 5:15am, setting up my tent, starting a fire for warmth and to make food, would wait till dark so I can view the stars in the sky.
 
 ### Office Environment
 <!---
