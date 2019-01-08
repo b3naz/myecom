@@ -56,13 +56,53 @@ Location: Please state which town/city you worked in.
 * **End Date:** July 2016
 * **Location:** Woodstock, Cape Town
 * **Description of activities:** Content Migration from Drupal 6 to Drupal 7, 
-                                 created mysql snippets to migrate data from Drupal 6 to   Drupal 7 table schema, 
+                                 created mysql snippets to migrate data from Drupal 6 to Drupal 7 table schema, 
                                  created a custom Drupal 7 theme from scratch according to a design shown, 
                                  created different types of views and added different contextual filters to views, 
                                  as well as adding forms for filters in views.
 * **Reason for leaving:** Wanted to expose myself to new skills and different working environments.
 ---
 
+* **Business/Organisation Name:** Spring Apps Inc
+* **Job Title:** Drupal Developer
+* **Start Date:** November 2016
+* **End Date:** April 2017
+* **Location:** Johannesburg + Remotely worked from Cape Town
+* **Description of activities:** Content Migration from Drupal 7 to Drupal 8, 
+                                 setup commerce for Drupal 7 and Drupal 8, 
+                                  setup of views display for Drupal 7 and Drupal 8, 
+                                 tweaked Drupal 7 and Drupal 8 themes, 
+                                 used GIT for source control.
+* **Reason for leaving:** My contract ended.
+---
+
+* **Business/Organisation Name:** Quartermaster
+* **Job Title:** Drupal Developer
+* **Start Date:** September 2018
+* **End Date:** December 2018
+* **Location:** Remotely worked from Cape Town
+* **Description of activities:** Freelancing as a Drupal Developer on form-scaff website, 
+                                 fixed Map showing for 'development purposes only', 
+                                 updating look and feel of website also adding a hamburger menu.
+                                 fixing up branch locator search field, 
+                                 which allows you to search for a branch via city and showing all branches within that city.
+
+* **Reason for leaving:** My contract ended.
+---
+
+* **Business/Organisation Name:** Morningstar Funeral fund
+* **Job Title:** Web Developer
+* **Start Date:** December 2018
+* **End Date:** January 2018
+* **Location:** Cape Town
+* **Description of activities:** Freelancing as a Web Developer, 
+                                 created a coming soon webpage using HTML / CSS / Bootstrap / JS.
+                                 This project included deleting listing from various company listing websites to name some Netpages / SA yellow pages / Nearfinder.
+                                 End of January 2019 we will be creating a full website based on Drupal 8.
+
+
+* **Reason for leaving:** Still Freelancing.
+---
 ## Links:
 <!---
 Our business depends on digital tools for everything from day to do productivity through to brand development and sales.
