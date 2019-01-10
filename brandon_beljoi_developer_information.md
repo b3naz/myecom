@@ -89,20 +89,6 @@ Location: Please state which town/city you worked in.
 * **Reason for leaving:** My contract ended.
 ---
 
-* **Business/Organisation Name:** Quartermaster
-* **Job Title:** Drupal Developer
-* **Start Date:** September 2018
-* **End Date:** December 2018
-* **Location:** Remotely worked from Cape Town
-* **Description of activities:** Freelancing as a Drupal Developer on form-scaff website, 
-                                 fixed Map showing for 'development purposes only', 
-                                 updating look and feel of website also adding a hamburger menu.
-                                 fixing up branch locator search field, 
-                                 which allows you to search for a branch via city and showing all branches within that city.
-
-* **Reason for leaving:** My contract ended.
----
-
 * **Business/Organisation Name:** Morningstar Funeral fund
 * **Job Title:** Web Developer
 * **Start Date:** December 2018
@@ -112,8 +98,6 @@ Location: Please state which town/city you worked in.
                                  created a coming soon webpage using HTML / CSS / Bootstrap / JS.
                                  This project included deleting listing from various company listing websites to name some Netpages / SA yellow pages / Nearfinder.
                                  End of January 2019 we will be creating a full website based on Drupal 8.
-
-
 * **Reason for leaving:** Still Freelancing.
 ---
 
