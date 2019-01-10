@@ -230,16 +230,16 @@ These are some general questions to get to know you. Please leave one space afte
 Small office, big office, lots of talking, not much talking, dark or light, hot or cold, windows open or closed, many people or few people etc.
 --->
 
-* **What sort of office environment do you want to work in, do you have any preferences?**
-* **What type of environment do you not want to work in, anything specific that you don't like?**
+* **What sort of office environment do you want to work in, do you have any preferences?** No
+* **What type of environment do you not want to work in, anything specific that you don't like?** Just a good working environment.
 
 ### Logistics
 
-* **Do you have your own transport?**
-* **Do you or will you be renting a place to stay on your own or will you be staying with someone else?**
-* **Do you have reliable Internet access at home?**
-* **What type of Internet access do you have?**
-* **Have you ever needed to work in the evenings in order to meet a deadline or show progress on a project? And will you be comfortable doing this either from the office or from home?**
+* **Do you have your own transport?** No
+* **Do you or will you be renting a place to stay on your own or will you be staying with someone else?** Staying with someone.
+* **Do you have reliable Internet access at home?** Yes
+* **What type of Internet access do you have?** 8meg wireless.
+* **Have you ever needed to work in the evenings in order to meet a deadline or show progress on a project? And will you be comfortable doing this either from the office or from home?** Yes, from home but either way necessary.
 
 ### Communication
 
