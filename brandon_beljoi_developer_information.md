@@ -238,28 +238,28 @@ Small office, big office, lots of talking, not much talking, dark or light, hot 
 * **Do you have your own transport?** No
 * **Do you or will you be renting a place to stay on your own or will you be staying with someone else?** Staying with someone.
 * **Do you have reliable Internet access at home?** Yes
-* **What type of Internet access do you have?** 8meg wireless.
+* **What type of Internet access do you have?** 10meg wireless.
 * **Have you ever needed to work in the evenings in order to meet a deadline or show progress on a project? And will you be comfortable doing this either from the office or from home?** Yes, from home but either way necessary.
 
 ### Communication
 
-* **How did you get instructions in the past? Email, meeting, telephone?**
-* **Some days go by when we don’t talk to our team. We set up a schedule and in general everyone has a list of issues to work on. Do you feel comfortable working unsupervised and with little supervision?**
+* **How did you get instructions in the past? Email, meeting, telephone?** All three listed.
+* **Some days go by when we don’t talk to our team. We set up a schedule and in general everyone has a list of issues to work on. Do you feel comfortable working unsupervised and with little supervision?** Yes
 * **We use BitBucket’s issue tracker to manage change requests from clients and provide them with feedback.**
-**We have a support phone that you would need to answer. Have you needed to provide support to clients and/or engage with clients via phone or email, providing feedback or eliciting requirements/information?**
+**We have a support phone that you would need to answer. Have you needed to provide support to clients and/or engage with clients via phone or email, providing feedback or eliciting requirements/information?** Both listed.
 
 ### Planning and execution
 <!---
 These questions might require a bit more of a narrative/essay style answer, so please answer under the question.
 --->
 
-**With regards to Wordpress, please tell us about the type of projects you have worked on; custom themes, child themes, custom plugins, multi site, multilingual, WooCommerce etc?**
+**With regards to Wordpress, please tell us about the type of projects you have worked on; custom themes, child themes, custom plugins, multi site, multilingual, WooCommerce etc?** I actually never yet really worked on Wordpress, but I manage to install it and know how to install it's plugins and with exposure to Wordpress environment it shouldn't be hard for me to get to work with it.
 
-**How comfortable do you feel with databases and SQL?**
+**How comfortable do you feel with databases and SQL?** I'm quite comfortable with it and know my way around databases and it tables and can perform scripts.
 
-**Have you done much work with APIs and/or system integration?**
+**Have you done much work with APIs and/or system integration?** Not really.
 
-**Have you done any mobile app development for iOS or Android?**
+**Have you done any mobile app development for iOS or Android?** No
 
 ## Contactable references
 <!---
@@ -268,10 +268,22 @@ Repeat this structure for each contactable reference.
 Reference relationship: Please tell us how this person relates to you, was this person your direct supervisor, a client or maybe a lecturer etc.
 --->
 
-* **Reference name and surname:**
-* **Reference relationship:**
-* **Reference mobile number:**
-* **Reference email address:**
+* **Reference name and surname:** Gina Phillips
+* **Reference relationship:** Business Director
+* **Reference mobile number:** 078 988 1616
+* **Reference email address:** NA
+---
+
+* **Reference name and surname:** Sanet Schoombee
+* **Reference relationship:** HR and Admin Manager
+* **Reference mobile number:** 083 298 4489
+* **Reference email address:** NA
+---
+
+* **Reference name and surname:** Ravi Moodley
+* **Reference relationship:** Project Manager
+* **Reference mobile number:** 0214474365
+* **Reference email address:** NA
 ---
 
 <!---
