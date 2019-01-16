@@ -203,22 +203,22 @@ Repeat this structure for each project you’ve worked on, leaving one open line
 Project Contribution: Please tell us what you did on the project. How involved were you, did you only contribute code, plan the database, configure the server, work on the project alone or as part of a team etc?
  --->
 
-* **Project Name:**
-* **Project Description:**
-* **Project Contribution:**
-* **Link to project if it is still online:**
+* **Project Name:** South African History Online
+* **Project Description:** Migrated Drupal 6 to Drupal 7.
+* **Project Contribution:** Planned the database, worked on the project mostly alone, but near ending worked as a team, Developed a drupal 7 theme from scratch consulting with a design and I brought it to life.
+* **Link to project if it is still online:** https://www.sahistory.org.za/
 ---
 
-* **Project Name:**
-* **Project Description:**
-* **Project Contribution:**
-* **Link to project if it is still online:**
+* **Project Name:** Get Luggage
+* **Project Description:** Developed a Drupal 7 website, setting up commerce and shipping rules.
+* **Project Contribution:** Was lead developer, contributed some code for theming, worked alone on the project.
+* **Link to project if it is still online:** NA
 ---
 
-* **Project Name:**
-* **Project Description:**
-* **Project Contribution:**
-* **Link to project if it is still online:**
+* **Project Name:** Ahmed Kathrada
+* **Project Description:** Migrated Drupal 7 to Drupal 8, setup commerce and views display.
+* **Project Contribution:** Was lead developer, contributed some code for theming, worked alone on the project.
+* **Link to project if it is still online:** NA
 ---
 
 * **Project Name:**
