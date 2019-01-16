@@ -30,7 +30,7 @@ Addresses: Please keep the address in one line. Please include, street number, s
 * **Mobile Number:** +27 83 682 0990
 * **Physical Address:** 34 Shepherd Court, Lavender Hill, Retreat, Cape Town, Western Cape, 7945
 * **Postal Address:** 34 Shepherd Court, Lavender Hill, Retreat, Cape Town, Western Cape, 7945
-* **Introduce yourself in a tweet (140 characters):**
+* **Introduce yourself in a tweet (140 characters):** I’m helpful, supportive, give encouragement and advice to people. Motivate them and plant hope.A Free and independent thinker, Brandon comes to his own conclusions rather than simply relying on what others tell him. His Ways can be strange, because some things he tend's to do differently. His unconventional way of thinking, let's his creativity manifest in unpredictable ways.He doesn't Judge a book by it’s cover, He prefers to keep an open mind, when going into situations and meeting new people.
 
 ## Education:
 <!---
