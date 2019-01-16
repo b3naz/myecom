@@ -221,16 +221,22 @@ Project Contribution: Please tell us what you did on the project. How involved w
 * **Link to project if it is still online:** NA
 ---
 
-* **Project Name:**
-* **Project Description:**
-* **Project Contribution:**
-* **Link to project if it is still online:**
+* **Project Name:** Formscaff
+* **Project Description:** Fixed map displaying 'development purpose only' and did some theming for new look.
+* **Project Contribution:** Contributed some code, worked alone on this project.
+* **Link to project if it is still online:** https://www.formscaff.com/
 ---
 
-* **Project Name:**
-* **Project Description:**
-* **Project Contribution:**
-* **Link to project if it is still online:**
+* **Project Name:** Morningstar Funeral
+* **Project Description:** Created a webpage for under construction.
+* **Project Contribution:** Was lead developer, worked alone on this project.
+* **Link to project if it is still online:** http://www.morningstarfuneral.co.za/
+---
+
+* **Project Name:** Nu-Image Funeral
+* **Project Description:** A burial service wanting to keep electronic information, created a web application to capture data.
+* **Project Contribution:** Was lead developer, worked alone on this project.
+* **Link to project if it is still online:** NA
 ---
 
 ## Getting to know you
@@ -242,7 +248,7 @@ These are some general questions to get to know you. Please leave one space afte
 
 * **Do you prefer tea or coffee?** Coffee
 * **What is your favourite food?** Pasta
-* **What is your favourite thing to do when you have free time?** 
+* **What is your favourite thing to do when you have free time?** Research new technologies.
 * **What type of music do you enjoy listening to?** Calming instrumental
 * **If you could design your perfect day, what would it look like? What time would you wake up, what would you do etc?** Camping, would wake up at 5:15am, setting up my tent, starting a fire for warmth and to make food, would wait till dark so I can view the stars in the sky.
 
